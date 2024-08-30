@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Software Development
 - 💞️ I’m looking to collaborate on Unity projects
 - 📫 How to reach me smithj1091@gmail.com
-- ⚡ Fun fact: I am obsessed with books on technology, nature, science, health, animation, video game development, and drawing.
+- ⚡ Fun fact: I love books on technology, nature, science, health, animation, video game development, and drawing.
 
 <!---
 jlsmith910/jlsmith910 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
