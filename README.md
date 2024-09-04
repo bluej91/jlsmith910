@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jlsmith910
 - 👀 I’m interested in VR/XR, Unity Game Development, VFX, and Animation.
-- 🌱 I’m currently learning Software Development
+- 🌱 I’m enjoy software development
 - 💞️ I’m looking to collaborate on Unity projects
 - 📫 How to reach me smithj1091@gmail.com
 - ⚡ Fun fact: I am obsessed with books on technology, nature, science, health, animation, video game development, and drawing.
